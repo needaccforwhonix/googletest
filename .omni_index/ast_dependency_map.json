@@ -1,0 +1,2839 @@
+[
+  {
+    "file": "fake_fuchsia_sdk.bzl",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "BUILD.bazel",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "MODULE.bazel",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CONTRIBUTING.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "WORKSPACE.bzlmod",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "WORKSPACE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".clang-format",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "success"
+  },
+  {
+    "file": "googletest_deps.bzl",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CMakeLists.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CONTRIBUTORS",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ci/linux-presubmit.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ci/windows-presubmit.bat",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "ci/macos-presubmit.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/README.md",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/CMakeLists.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-death-test_ex_test.cc",
+    "dependencies": [
+      "windows.h",
+      "gtest/gtest-spi.h",
+      "gtest/gtest-death-test.h",
+      "gtest/gtest.h",
+      "exception"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-color-test_.cc",
+    "dependencies": [
+      "stdio.h",
+      "gtest/gtest.h",
+      "src/gtest-internal-inl.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-options-test.cc",
+    "dependencies": [
+      "windows.h",
+      "src/gtest-internal-inl.h",
+      "direct.h",
+      "string",
+      "strings.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-setuptestsuite-test_.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_unittest.cc",
+    "dependencies": [
+      "utility",
+      "time.h",
+      "unordered_set",
+      "set",
+      "vector",
+      "ostream",
+      "gtest/gtest-spi.h",
+      "src/gtest-internal-inl.h",
+      "stdexcept",
+      "memory",
+      "cstdint",
+      "limits.h",
+      "string",
+      "type_traits",
+      "gtest/gtest.h",
+      "map",
+      "string.h",
+      "stdlib.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-filter-unittest_.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-param-test-invalid-name1-test_.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-break-on-failure-unittest.py",
+    "dependencies": [
+      "gtest_test_utils",
+      "googletest.test",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/BUILD.bazel",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_xml_output_unittest.py",
+    "dependencies": [
+      "errno",
+      "sys",
+      "gtest_test_utils",
+      "datetime",
+      "minidom",
+      "os",
+      "xml.dom",
+      "googletest.test",
+      "re",
+      "gtest_xml_test_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-output-test.py",
+    "dependencies": [
+      "sys",
+      "difflib",
+      "os",
+      "re",
+      "googletest.test",
+      "gtest_test_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_xml_test_utils.py",
+    "dependencies": [
+      "minidom",
+      "xml.dom",
+      "googletest.test",
+      "re",
+      "gtest_test_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_list_output_unittest_.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_assert_by_exception_test.cc",
+    "dependencies": [
+      "stdexcept",
+      "stdio.h",
+      "gtest/gtest.h",
+      "string.h",
+      "stdlib.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_dirs_test.cc",
+    "dependencies": [
+      "gtest/internal/gtest-port.h",
+      "cstdlib",
+      "string",
+      "sys/stat.h",
+      "cstring",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_skip_test.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-uninitialized-test_.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-listener-test.cc",
+    "dependencies": [
+      "gtest/internal/custom/gtest.h",
+      "vector",
+      "gtest/gtest.h",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_help_test_.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-printers-test.cc",
+    "dependencies": [
+      "utility",
+      "ostream",
+      "cstdint",
+      "span",
+      "cstring",
+      "absl/strings/str_format.h",
+      "gtest/gtest.h",
+      "gtest/gtest-printers.h",
+      "forward_list",
+      "unordered_set",
+      "vector",
+      "any",
+      "functional",
+      "map",
+      "sstream",
+      "variant",
+      "string_view",
+      "unordered_map",
+      "optional",
+      "algorithm",
+      "compare",
+      "tuple",
+      "limits",
+      "cctype",
+      "gtest/internal/gtest-port.h",
+      "list",
+      "memory",
+      "string",
+      "set",
+      "deque"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-throw-on-failure-test_.cc",
+    "dependencies": [
+      "stdio.h",
+      "gtest/gtest.h",
+      "exception",
+      "stdlib.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_list_output_unittest.py",
+    "dependencies": [
+      "gtest_test_utils",
+      "re",
+      "googletest.test",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-shuffle-test_.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-list-tests-unittest_.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "ostream",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_skip_check_output_test.py",
+    "dependencies": [
+      "gtest_test_utils",
+      "googletest.test",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest-typed-test2_test.cc",
+    "dependencies": [
+      "test/gtest-typed-test_test.h",
+      "vector",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/production.h",
+    "dependencies": [
+      "gtest/gtest_prod.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-global-environment-unittest.py",
+    "dependencies": [
+      "gtest_test_utils",
+      "googletest.test",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-filter-unittest.py",
+    "dependencies": [
+      "sys",
+      "Set",
+      "os",
+      "sets",
+      "re",
+      "googletest.test",
+      "gtest_test_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-param-test-invalid-name2-test_.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-env-var-test_.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "iostream",
+      "src/gtest-internal-inl.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-fail-if-no-test-linked-test-with-disabled-test_.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_json_test_utils.py",
+    "dependencies": [
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_no_test_unittest.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-fail-if-no-test-linked-test-with-enabled-test_.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-failfast-unittest_.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-death-test-test.cc",
+    "dependencies": [
+      "gtest/internal/gtest-filepath.h",
+      "signal.h",
+      "sys/time.h",
+      "vector",
+      "gtest/gtest-spi.h",
+      "string",
+      "src/gtest-internal-inl.h",
+      "direct.h",
+      "io.h",
+      "gtest/gtest-death-test.h",
+      "unistd.h",
+      "limits.h",
+      "stdio.h",
+      "gtest/gtest.h",
+      "fcntl.h",
+      "stdlib.h",
+      "sys/wait.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-port-test.cc",
+    "dependencies": [
+      "utility",
+      "time.h",
+      "gtest/internal/gtest-port.h",
+      "thread",
+      "list",
+      "vector",
+      "gtest/gtest-spi.h",
+      "src/gtest-internal-inl.h",
+      "memory",
+      "chrono",
+      "string",
+      "stdio.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-fail-if-no-test-linked-test.py",
+    "dependencies": [
+      "gtest_test_utils",
+      "googletest.test",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/production.cc",
+    "dependencies": [
+      "production.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_main_unittest.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-test-part-test.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "gtest/gtest-test-part.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-param-test-invalid-name2-test.py",
+    "dependencies": [
+      "googletest.test",
+      "gtest_test_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_skip_environment_check_output_test.py",
+    "dependencies": [
+      "googletest.test",
+      "gtest_test_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-setuptestsuite-test.py",
+    "dependencies": [
+      "googletest.test",
+      "gtest_test_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-shuffle-test.py",
+    "dependencies": [
+      "gtest_test_utils",
+      "googletest.test",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_testbridge_test.py",
+    "dependencies": [
+      "gtest_test_utils",
+      "googletest.test",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-uninitialized-test.py",
+    "dependencies": [
+      "googletest.test",
+      "gtest_test_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-catch-exceptions-test.py",
+    "dependencies": [
+      "googletest.test",
+      "gtest_test_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-failfast-unittest.py",
+    "dependencies": [
+      "gtest_test_utils",
+      "googletest.test",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-color-test.py",
+    "dependencies": [
+      "gtest_test_utils",
+      "googletest.test",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_xml_outfiles_test.py",
+    "dependencies": [
+      "minidom",
+      "os",
+      "xml.dom",
+      "googletest.test",
+      "gtest_test_utils",
+      "gtest_xml_test_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-filepath-test.cc",
+    "dependencies": [
+      "gtest/internal/gtest-filepath.h",
+      "windows.h",
+      "src/gtest-internal-inl.h",
+      "direct.h",
+      "string",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_test_macro_stack_footprint_test.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-list-tests-unittest.py",
+    "dependencies": [
+      "gtest_test_utils",
+      "googletest.test",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest-unittest-api_test.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "string.h",
+      "algorithm"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest-typed-test_test.h",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-message-test.cc",
+    "dependencies": [
+      "sstream",
+      "gtest/gtest-message.h",
+      "gtest/gtest.h",
+      "string",
+      "absl/strings/str_format.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-global-environment-unittest_.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-param-test2-test.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "test/googletest-param-test-test.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest-typed-test_test.cc",
+    "dependencies": [
+      "test/gtest-typed-test_test.h",
+      "vector",
+      "type_traits",
+      "string",
+      "set",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_sole_header_test.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-fail-if-no-test-selected-test.py",
+    "dependencies": [
+      "googletest.test",
+      "gtest_test_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_xml_outfile2_test_.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "atomic"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_skip_in_environment_setup_test.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "iostream"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_help_test.py",
+    "dependencies": [
+      "sys",
+      "os",
+      "re",
+      "googletest.test",
+      "gtest_test_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-param-test-invalid-name1-test.py",
+    "dependencies": [
+      "googletest.test",
+      "gtest_test_utils"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_stress_test.cc",
+    "dependencies": [
+      "vector",
+      "src/gtest-internal-inl.h",
+      "memory",
+      "algorithm",
+      "string",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-param-test-test.cc",
+    "dependencies": [
+      "sstream",
+      "cstddef",
+      "test/googletest-param-test-test.h",
+      "iostream",
+      "list",
+      "set",
+      "string_view",
+      "vector",
+      "src/gtest-internal-inl.h",
+      "cstdint",
+      "algorithm",
+      "string",
+      "type_traits",
+      "tuple",
+      "functional",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-env-var-test.py",
+    "dependencies": [
+      "gtest_test_utils",
+      "googletest.test",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_test_utils.py",
+    "dependencies": [
+      "sys",
+      "atexit",
+      "unittest",
+      "tempfile",
+      "os",
+      "subprocess",
+      "shutil"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_premature_exit_test.cc",
+    "dependencies": [
+      "stdio.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-output-test_.cc",
+    "dependencies": [
+      "gtest/gtest-spi.h",
+      "src/gtest-internal-inl.h",
+      "algorithm",
+      "string",
+      "gtest/gtest.h",
+      "stdlib.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-json-outfiles-test.py",
+    "dependencies": [
+      "gtest_json_test_utils",
+      "os",
+      "googletest.test",
+      "gtest_test_utils",
+      "json"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_xml_outfile1_test_.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-break-on-failure-unittest_.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "windows.h",
+      "stdlib.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_prod_test.cc",
+    "dependencies": [
+      "production.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_environment_test.cc",
+    "dependencies": [
+      "stdio.h",
+      "gtest/gtest.h",
+      "stdlib.h",
+      "src/gtest-internal-inl.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_pred_impl_unittest.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "iostream",
+      "ostream",
+      "gtest/gtest-spi.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_all_test.cc",
+    "dependencies": [
+      "test/gtest-typed-test_test.cc",
+      "test/gtest_prod_test.cc",
+      "test/gtest_skip_test.cc",
+      "test/gtest_pred_impl_unittest.cc",
+      "test/googletest-options-test.cc",
+      "test/googletest-message-test.cc",
+      "test/gtest_unittest.cc",
+      "test/gtest-typed-test2_test.cc",
+      "test/googletest-test-part-test.cc",
+      "test/googletest-filepath-test.cc",
+      "test/production.cc",
+      "test/googletest-port-test.cc"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_xml_output_unittest_.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-catch-exceptions-test_.cc",
+    "dependencies": [
+      "windows.h",
+      "stdexcept",
+      "stdio.h",
+      "gtest/gtest.h",
+      "exception",
+      "stdlib.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_repeat_test.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "iostream",
+      "stdlib.h",
+      "src/gtest-internal-inl.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-json-output-unittest.py",
+    "dependencies": [
+      "errno",
+      "sys",
+      "gtest_test_utils",
+      "datetime",
+      "os",
+      "gtest_json_test_utils",
+      "googletest.test",
+      "re",
+      "json"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_throw_on_failure_ex_test.cc",
+    "dependencies": [
+      "stdexcept",
+      "stdio.h",
+      "gtest/gtest.h",
+      "string.h",
+      "stdlib.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-output-test-golden-lin.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-throw-on-failure-test.py",
+    "dependencies": [
+      "gtest_test_utils",
+      "googletest.test",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/gtest_testbridge_test_.cc",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/test/googletest-param-test-test.h",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/gtest-matchers.h",
+    "dependencies": [
+      "gtest/gtest-printers.h",
+      "gtest/internal/gtest-internal.h",
+      "gtest/internal/gtest-port.h",
+      "ostream",
+      "memory",
+      "type_traits",
+      "string",
+      "functional",
+      "atomic"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/gtest-spi.h",
+    "dependencies": [
+      "gtest/gtest.h",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/gtest_prod.h",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/gtest-assertion-result.h",
+    "dependencies": [
+      "gtest/internal/gtest-port.h",
+      "ostream",
+      "memory",
+      "type_traits",
+      "gtest/gtest-message.h",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/gtest_pred_impl.h",
+    "dependencies": [
+      "gtest/internal/gtest-internal.h",
+      "gtest/internal/gtest-port.h",
+      "gtest/gtest-assertion-result.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/gtest-test-part.h",
+    "dependencies": [
+      "gtest/internal/gtest-internal.h",
+      "gtest/internal/gtest-string.h",
+      "iosfwd",
+      "vector",
+      "ostream",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/gtest-death-test.h",
+    "dependencies": [
+      "gtest/internal/gtest-death-test-internal.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/gtest.h",
+    "dependencies": [
+      "gtest/gtest-assertion-result.h",
+      "gtest/internal/gtest-internal.h",
+      "cstddef",
+      "gtest/gtest-param-test.h",
+      "ostream",
+      "cstdint",
+      "gtest/gtest-death-test.h",
+      "type_traits",
+      "gtest/gtest-printers.h",
+      "gtest/internal/gtest-string.h",
+      "vector",
+      "gtest/gtest-test-part.h",
+      "gtest/gtest-typed-test.h",
+      "gtest/gtest_pred_impl.h",
+      "gtest/gtest-matchers.h",
+      "sstream",
+      "gtest/gtest-message.h",
+      "limits",
+      "gtest/gtest_prod.h",
+      "memory",
+      "string",
+      "set"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/gtest-printers.h",
+    "dependencies": [
+      "utility",
+      "gtest/internal/gtest-internal.h",
+      "absl/strings/str_cat.h",
+      "ostream",
+      "gtest/internal/custom/gtest-printers.h",
+      "type_traits",
+      "span",
+      "absl/strings/has_absl_stringify.h",
+      "vector",
+      "any",
+      "functional",
+      "sstream",
+      "variant",
+      "string_view",
+      "optional",
+      "compare",
+      "tuple",
+      "typeinfo",
+      "gtest/internal/gtest-port.h",
+      "memory",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/gtest-typed-test.h",
+    "dependencies": [
+      "gtest/internal/gtest-port.h",
+      "gtest/internal/gtest-internal.h",
+      "gtest/internal/gtest-type-util.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/gtest-param-test.h",
+    "dependencies": [
+      "iterator",
+      "utility",
+      "gtest/internal/gtest-internal.h",
+      "gtest/internal/gtest-param-util.h",
+      "gtest/internal/gtest-port.h",
+      "functional"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/gtest-message.h",
+    "dependencies": [
+      "sstream",
+      "absl/strings/str_cat.h",
+      "gtest/internal/gtest-port.h",
+      "ostream",
+      "memory",
+      "type_traits",
+      "string",
+      "absl/strings/has_absl_stringify.h",
+      "limits"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/internal/gtest-internal.h",
+    "dependencies": [
+      "utility",
+      "cstdint",
+      "type_traits",
+      "sys/wait.h",
+      "gtest/internal/gtest-filepath.h",
+      "gtest/internal/gtest-string.h",
+      "vector",
+      "functional",
+      "map",
+      "stdlib.h",
+      "stdexcept",
+      "gtest/gtest-message.h",
+      "sys/types.h",
+      "string.h",
+      "limits",
+      "float.h",
+      "gtest/internal/gtest-port.h",
+      "unistd.h",
+      "gtest/internal/gtest-type-util.h",
+      "string",
+      "ctype.h",
+      "set"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/internal/gtest-param-util.h",
+    "dependencies": [
+      "iterator",
+      "utility",
+      "gtest/gtest-printers.h",
+      "gtest/internal/gtest-internal.h",
+      "cassert",
+      "tuple",
+      "set",
+      "vector",
+      "gtest/gtest-test-part.h",
+      "ostream",
+      "gtest/internal/gtest-port.h",
+      "unordered_map",
+      "memory",
+      "type_traits",
+      "string",
+      "ctype.h",
+      "functional",
+      "map"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/internal/gtest-port-arch.h",
+    "dependencies": [
+      "winapifamily.h",
+      "TargetConditionals.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/internal/gtest-death-test-internal.h",
+    "dependencies": [
+      "gtest/internal/gtest-internal.h",
+      "gtest/internal/gtest-port.h",
+      "memory",
+      "gtest/gtest-matchers.h",
+      "string",
+      "stdio.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/internal/gtest-filepath.h",
+    "dependencies": [
+      "gtest/internal/gtest-port.h",
+      "utility",
+      "gtest/internal/gtest-string.h",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/internal/gtest-type-util.h",
+    "dependencies": [
+      "typeinfo",
+      "cxxabi.h",
+      "gtest/internal/gtest-port.h",
+      "type_traits",
+      "string",
+      "acxx_demangle.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/internal/gtest-string.h",
+    "dependencies": [
+      "sstream",
+      "gtest/internal/gtest-port.h",
+      "cstdint",
+      "string",
+      "mem.h",
+      "string.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/internal/gtest-port.h",
+    "dependencies": [
+      "cerrno",
+      "iostream",
+      "re2/re2.h",
+      "ostream",
+      "cstdint",
+      "io.h",
+      "type_traits",
+      "version",
+      "absl/strings/string_view.h",
+      "android/api-level.h",
+      "vector",
+      "direct.h",
+      "strings.h",
+      "stdlib.h",
+      "TargetConditionals.h",
+      "absl/flags/flag.h",
+      "time.h",
+      "absl/flags/declare.h",
+      "string_view",
+      "AvailabilityMacros.h",
+      "ciso646",
+      "stddef.h",
+      "absl/flags/reflection.h",
+      "tuple",
+      "stdio.h",
+      "sys/stat.h",
+      "sys/types.h",
+      "string.h",
+      "gtest/internal/gtest-port-arch.h",
+      "limits",
+      "condition_variable",
+      "typeinfo",
+      "gtest/internal/custom/gtest-port.h",
+      "mutex",
+      "locale",
+      "memory",
+      "unistd.h",
+      "regex.h",
+      "pthread.h",
+      "string",
+      "ctype.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/internal/custom/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/internal/custom/gtest-port.h",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/internal/custom/gtest.h",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/include/gtest/internal/custom/gtest-printers.h",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/cmake/internal_utils.cmake",
+    "dependencies": [
+      "path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/cmake/libgtest.la.in",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/cmake/Config.cmake.in",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/cmake/gtest.pc.in",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/cmake/gtest_main.pc.in",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/docs/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample6_unittest.cc",
+    "dependencies": [
+      "prime_tables.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample7_unittest.cc",
+    "dependencies": [
+      "prime_tables.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample1.h",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample3-inl.h",
+    "dependencies": [
+      "stddef.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample8_unittest.cc",
+    "dependencies": [
+      "tuple",
+      "prime_tables.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample10_unittest.cc",
+    "dependencies": [
+      "stdio.h",
+      "gtest/gtest.h",
+      "stdlib.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/prime_tables.h",
+    "dependencies": [
+      "algorithm"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample2_unittest.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "sample2.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample1_unittest.cc",
+    "dependencies": [
+      "sample1.h",
+      "limits.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample9_unittest.cc",
+    "dependencies": [
+      "stdio.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample4.cc",
+    "dependencies": [
+      "stdio.h",
+      "sample4.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample5_unittest.cc",
+    "dependencies": [
+      "sample1.h",
+      "time.h",
+      "sample3-inl.h",
+      "limits.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample4.h",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample4_unittest.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "sample4.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample2.h",
+    "dependencies": [
+      "string.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample1.cc",
+    "dependencies": [
+      "sample1.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample3_unittest.cc",
+    "dependencies": [
+      "sample3-inl.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/samples/sample2.cc",
+    "dependencies": [
+      "string.h",
+      "sample2.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/src/gtest-assertion-result.cc",
+    "dependencies": [
+      "utility",
+      "gtest/gtest-assertion-result.h",
+      "gtest/gtest-message.h",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/src/gtest-all.cc",
+    "dependencies": [
+      "src/gtest-typed-test.cc",
+      "src/gtest.cc",
+      "src/gtest-test-part.cc",
+      "src/gtest-printers.cc",
+      "src/gtest-matchers.cc",
+      "src/gtest-port.cc",
+      "src/gtest-assertion-result.cc",
+      "src/gtest-death-test.cc",
+      "gtest/gtest.h",
+      "src/gtest-filepath.cc"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/src/gtest-port.cc",
+    "dependencies": [
+      "utility",
+      "gtest/internal/gtest-internal.h",
+      "ostream",
+      "cstdint",
+      "io.h",
+      "mach/task.h",
+      "zircon/process.h",
+      "zircon/syscalls.h",
+      "gtest/internal/gtest-string.h",
+      "vector",
+      "mach/vm_map.h",
+      "map",
+      "stdlib.h",
+      "sys/user.h",
+      "procinfo.h",
+      "gtest/gtest-message.h",
+      "stdio.h",
+      "crtdbg.h",
+      "sys/stat.h",
+      "sys/sysctl.h",
+      "string.h",
+      "fcntl.h",
+      "sys/types.h",
+      "fstream",
+      "windows.h",
+      "gtest/internal/gtest-port.h",
+      "devctl.h",
+      "gtest/gtest-spi.h",
+      "src/gtest-internal-inl.h",
+      "memory",
+      "unistd.h",
+      "mach/mach_init.h",
+      "string",
+      "limits.h",
+      "sys/procfs.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/src/gtest-typed-test.cc",
+    "dependencies": [
+      "vector",
+      "gtest/gtest-typed-test.h",
+      "string",
+      "set",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/src/gtest-filepath.cc",
+    "dependencies": [
+      "gtest/internal/gtest-filepath.h",
+      "iterator",
+      "windows.h",
+      "gtest/internal/gtest-string.h",
+      "gtest/internal/gtest-port.h",
+      "climits",
+      "direct.h",
+      "io.h",
+      "gtest/gtest-message.h",
+      "limits.h",
+      "string",
+      "stdlib.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/src/gtest-printers.cc",
+    "dependencies": [
+      "gtest/gtest-printers.h",
+      "cwchar",
+      "cctype",
+      "gtest/internal/gtest-port.h",
+      "ios",
+      "iomanip",
+      "ostream",
+      "string_view",
+      "src/gtest-internal-inl.h",
+      "cstdint",
+      "type_traits",
+      "stdio.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/src/gtest-death-test.cc",
+    "dependencies": [
+      "lib/zx/channel.h",
+      "lib/zx/process.h",
+      "utility",
+      "signal.h",
+      "zircon/processargs.h",
+      "gtest/gtest-death-test.h",
+      "zircon/syscalls.h",
+      "lib/fdio/spawn.h",
+      "sys/wait.h",
+      "lib/fdio/io.h",
+      "gtest/internal/gtest-string.h",
+      "errno.h",
+      "vector",
+      "crt_externs.h",
+      "stdarg.h",
+      "zircon/syscalls/port.h",
+      "lib/fdio/fd.h",
+      "lib/zx/socket.h",
+      "functional",
+      "sys/mman.h",
+      "stdlib.h",
+      "sstream",
+      "spawn.h",
+      "gtest/gtest-message.h",
+      "fcntl.h",
+      "windows.h",
+      "lib/zx/port.h",
+      "gtest/internal/gtest-port.h",
+      "src/gtest-internal-inl.h",
+      "gtest/internal/custom/gtest.h",
+      "memory",
+      "string",
+      "limits.h",
+      "zircon/syscalls/policy.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/src/gtest-matchers.cc",
+    "dependencies": [
+      "gtest/internal/gtest-internal.h",
+      "gtest/internal/gtest-port.h",
+      "gtest/gtest-matchers.h",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/src/gtest.cc",
+    "dependencies": [
+      "arpa/inet.h",
+      "iterator",
+      "utility",
+      "gtest/gtest-assertion-result.h",
+      "sys/socket.h",
+      "absl/strings/str_cat.h",
+      "absl/debugging/symbolize.h",
+      "ios",
+      "initializer_list",
+      "iostream",
+      "ostream",
+      "cstdint",
+      "io.h",
+      "absl/flags/usage.h",
+      "absl/strings/string_view.h",
+      "cstring",
+      "absl/strings/strip.h",
+      "csignal",
+      "unordered_set",
+      "vector",
+      "stdarg.h",
+      "wctype.h",
+      "iomanip",
+      "crt_externs.h",
+      "limits.h",
+      "strings.h",
+      "map",
+      "stdlib.h",
+      "sys/mman.h",
+      "sstream",
+      "time.h",
+      "absl/container/flat_hash_set.h",
+      "wchar.h",
+      "absl/debugging/failure_signal_handler.h",
+      "stdexcept",
+      "absl/strings/str_replace.h",
+      "chrono",
+      "netdb.h",
+      "algorithm",
+      "sys/time.h",
+      "stdio.h",
+      "crtdbg.h",
+      "fcntl.h",
+      "string",
+      "sys/stat.h",
+      "sys/types.h",
+      "limits",
+      "sys/timeb.h",
+      "windows.h",
+      "gtest/internal/gtest-port.h",
+      "set",
+      "list",
+      "absl/debugging/stacktrace.h",
+      "gtest/gtest-spi.h",
+      "gtest/internal/custom/gtest.h",
+      "src/gtest-internal-inl.h",
+      "absl/flags/parse.h",
+      "unistd.h",
+      "cstdlib",
+      "cmath",
+      "ctype.h",
+      "gtest/gtest.h",
+      "sched.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/src/gtest_main.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "cstdio"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/src/gtest-test-part.cc",
+    "dependencies": [
+      "gtest/internal/gtest-port.h",
+      "gtest/gtest-test-part.h",
+      "ostream",
+      "src/gtest-internal-inl.h",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googletest/src/gtest-internal-inl.h",
+    "dependencies": [
+      "arpa/inet.h",
+      "windows.h",
+      "gtest/gtest.h",
+      "errno.h",
+      "gtest/internal/gtest-port.h",
+      "vector",
+      "unordered_map",
+      "stddef.h",
+      "gtest/gtest-spi.h",
+      "memory",
+      "cstdint",
+      "netdb.h",
+      "algorithm",
+      "string",
+      "set",
+      "string.h",
+      "stdlib.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/faq.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/quickstart-bazel.md",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/primer.md",
+    "dependencies": [
+      "gtest/gtest.h",
+      "this/package/foo.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/gmock_cook_book.md",
+    "dependencies": [
+      "gmock/gmock.h",
+      "path/to/mock_foo.h",
+      "vector",
+      "algorithm"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/gmock_faq.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/pkgconfig.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/quickstart-cmake.md",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/_config.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/gmock_cheat_sheet.md",
+    "dependencies": [
+      "gmock/gmock.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/samples.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/platforms.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/gmock_for_dummies.md",
+    "dependencies": [
+      "gmock/gmock.h",
+      "path/to/mock-turtle.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/index.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/advanced.md",
+    "dependencies": [
+      "google/protobuf/timestamp.proto",
+      "google/protobuf/duration.proto",
+      "ostream"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/community_created_documentation.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/_sass/main.scss",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/assets/css/style.scss",
+    "dependencies": [
+      "main",
+      "jekyll-theme-primer"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/_data/navigation.yml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/_layouts/default.html",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/reference/actions.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/reference/matchers.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/reference/assertions.md",
+    "dependencies": [
+      "gmock/gmock.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/reference/mocking.md",
+    "dependencies": [
+      "gmock/gmock.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/reference/testing.md",
+    "dependencies": [
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/CMakeLists.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-function-mocker_test.cc",
+    "dependencies": [
+      "objbase.h",
+      "gmock/gmock-function-mocker.h",
+      "type_traits",
+      "string",
+      "gmock/gmock.h",
+      "functional",
+      "map",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-cardinalities_test.cc",
+    "dependencies": [
+      "gmock/gmock.h",
+      "gtest/gtest.h",
+      "ostream",
+      "gtest/gtest-spi.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/BUILD.bazel",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock_output_test_golden.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-matchers-arithmetic_test.cc",
+    "dependencies": [
+      "gmock/gmock.h",
+      "test/gmock-matchers_test.h",
+      "ostream",
+      "memory",
+      "string",
+      "cmath",
+      "gtest/gtest.h",
+      "limits"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock_test.cc",
+    "dependencies": [
+      "gmock/gmock.h",
+      "gtest/internal/custom/gtest.h",
+      "gtest/gtest.h",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock_all_test.cc",
+    "dependencies": [
+      "test/gmock-nice-strict_test.cc",
+      "test/gmock-matchers-misc_test.cc",
+      "test/gmock-more-actions_test.cc",
+      "test/gmock-internal-utils_test.cc",
+      "test/gmock-actions_test.cc",
+      "test/gmock-cardinalities_test.cc",
+      "test/gmock-matchers-arithmetic_test.cc",
+      "test/gmock-port_test.cc",
+      "test/gmock-matchers-containers_test.cc",
+      "test/gmock_test.cc",
+      "test/gmock-spec-builders_test.cc",
+      "test/gmock-matchers-comparisons_test.cc"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-spec-builders_test.cc",
+    "dependencies": [
+      "sstream",
+      "gmock/internal/gmock-port.h",
+      "gtest/internal/gtest-port.h",
+      "ostream",
+      "gtest/gtest-spi.h",
+      "gmock/gmock-spec-builders.h",
+      "memory",
+      "type_traits",
+      "string",
+      "gmock/gmock.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-internal-utils_test.cc",
+    "dependencies": [
+      "sstream",
+      "gmock/internal/gmock-port.h",
+      "vector",
+      "gtest/gtest-spi.h",
+      "src/gtest-internal-inl.h",
+      "memory",
+      "cstdint",
+      "sys/types.h",
+      "string",
+      "gmock/gmock.h",
+      "tuple",
+      "gtest/gtest.h",
+      "map",
+      "stdlib.h",
+      "gmock/internal/gmock-internal-utils.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock_ex_test.cc",
+    "dependencies": [
+      "gmock/gmock.h",
+      "gtest/gtest.h",
+      "exception"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock_link_test.cc",
+    "dependencies": [
+      "test/gmock_link_test.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-matchers-misc_test.cc",
+    "dependencies": [
+      "utility",
+      "gmock/gmock.h",
+      "test/gmock-matchers_test.h",
+      "vector",
+      "ostream",
+      "memory",
+      "cstdint",
+      "string",
+      "array",
+      "tuple",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock_link_test.h",
+    "dependencies": [
+      "errno.h",
+      "gtest/internal/gtest-port.h",
+      "vector",
+      "iostream",
+      "gmock/gmock.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-port_test.cc",
+    "dependencies": [
+      "gtest/gtest.h",
+      "gmock/internal/gmock-port.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-pp-string_test.cc",
+    "dependencies": [
+      "gmock/gmock.h",
+      "gmock/internal/gmock-pp.h",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-matchers-comparisons_test.cc",
+    "dependencies": [
+      "test/gmock-matchers_test.h",
+      "vector",
+      "memory",
+      "optional",
+      "string",
+      "gmock/gmock.h",
+      "tuple",
+      "functional",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock_link2_test.cc",
+    "dependencies": [
+      "test/gmock_link_test.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock_leak_test.py",
+    "dependencies": [
+      "gmock_test_utils",
+      "googlemock.test"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock_test_utils.py",
+    "dependencies": [
+      "gtest_test_utils",
+      "googletest.test",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-matchers-containers_test.cc",
+    "dependencies": [
+      "iterator",
+      "cstddef",
+      "forward_list",
+      "gmock/gmock.h",
+      "test/gmock-matchers_test.h",
+      "vector",
+      "list",
+      "ostream",
+      "memory",
+      "algorithm",
+      "string",
+      "array",
+      "tuple",
+      "gtest/gtest.h",
+      "deque"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock_leak_test_.cc",
+    "dependencies": [
+      "gmock/gmock.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-nice-strict_test.cc",
+    "dependencies": [
+      "utility",
+      "gtest/gtest-spi.h",
+      "gmock/gmock-nice-strict.h",
+      "string",
+      "gmock/gmock.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock_output_test_.cc",
+    "dependencies": [
+      "gmock/gmock.h",
+      "stdio.h",
+      "gtest/gtest.h",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock_stress_test.cc",
+    "dependencies": [
+      "gmock/gmock.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-more-actions_test.cc",
+    "dependencies": [
+      "iterator",
+      "sstream",
+      "gtest/gtest.h",
+      "vector",
+      "gtest/gtest-spi.h",
+      "memory",
+      "algorithm",
+      "string",
+      "gmock/gmock.h",
+      "tuple",
+      "functional",
+      "gmock/gmock-more-actions.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-pp_test.cc",
+    "dependencies": [
+      "gmock/internal/gmock-pp.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-actions_test.cc",
+    "dependencies": [
+      "gmock/gmock-actions.h",
+      "iterator",
+      "utility",
+      "sstream",
+      "gmock/gmock.h",
+      "gmock/internal/gmock-port.h",
+      "gtest/internal/gtest-port.h",
+      "vector",
+      "gtest/gtest-spi.h",
+      "memory",
+      "algorithm",
+      "string",
+      "type_traits",
+      "tuple",
+      "functional",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock_output_test.py",
+    "dependencies": [
+      "sys",
+      "gmock_test_utils",
+      "googlemock.test",
+      "os",
+      "io",
+      "open",
+      "re"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/test/gmock-matchers_test.h",
+    "dependencies": [
+      "iterator",
+      "utility",
+      "iostream",
+      "gmock/gmock-more-matchers.h",
+      "cstdint",
+      "type_traits",
+      "gtest/gtest.h",
+      "forward_list",
+      "unordered_set",
+      "vector",
+      "gmock/gmock-matchers.h",
+      "array",
+      "functional",
+      "map",
+      "sstream",
+      "time.h",
+      "unordered_map",
+      "gmock/gmock.h",
+      "string.h",
+      "limits",
+      "list",
+      "gtest/gtest-spi.h",
+      "memory",
+      "string",
+      "set",
+      "deque"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/gmock-function-mocker.h",
+    "dependencies": [
+      "gmock/internal/gmock-pp.h",
+      "utility",
+      "cstddef",
+      "gmock/gmock-spec-builders.h",
+      "type_traits",
+      "gmock/internal/gmock-internal-utils.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/gmock-nice-strict.h",
+    "dependencies": [
+      "gmock/gmock-spec-builders.h",
+      "cstdint",
+      "type_traits",
+      "gmock/internal/gmock-port.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/gmock-more-matchers.h",
+    "dependencies": [
+      "gmock/gmock-matchers.h",
+      "ostream",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/gmock-matchers.h",
+    "dependencies": [
+      "iterator",
+      "utility",
+      "cstddef",
+      "ios",
+      "initializer_list",
+      "ostream",
+      "type_traits",
+      "gmock/internal/gmock-pp.h",
+      "vector",
+      "functional",
+      "gmock/internal/custom/gmock-matchers.h",
+      "sstream",
+      "algorithm",
+      "tuple",
+      "limits",
+      "memory",
+      "string",
+      "cmath",
+      "gtest/gtest.h",
+      "gmock/internal/gmock-internal-utils.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/gmock-spec-builders.h",
+    "dependencies": [
+      "utility",
+      "ostream",
+      "cstdint",
+      "type_traits",
+      "gtest/gtest.h",
+      "gmock/internal/gmock-port.h",
+      "vector",
+      "gmock/gmock-cardinalities.h",
+      "gmock/gmock-matchers.h",
+      "functional",
+      "map",
+      "sstream",
+      "stdexcept",
+      "it",
+      "gmock/gmock-actions.h",
+      "memory",
+      "string",
+      "set",
+      "gmock/internal/gmock-internal-utils.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/gmock-actions.h",
+    "dependencies": [
+      "gmock/internal/gmock-pp.h",
+      "utility",
+      "gmock/internal/gmock-port.h",
+      "errno.h",
+      "memory",
+      "algorithm",
+      "string",
+      "type_traits",
+      "tuple",
+      "functional",
+      "exception",
+      "gmock/internal/gmock-internal-utils.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/gmock-more-actions.h",
+    "dependencies": [
+      "gmock/gmock-actions.h",
+      "utility",
+      "gmock/internal/gmock-port.h",
+      "gmock/internal/custom/gmock-generated-actions.h",
+      "memory"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/gmock-cardinalities.h",
+    "dependencies": [
+      "gmock/internal/gmock-port.h",
+      "ostream",
+      "memory",
+      "limits.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/gmock.h",
+    "dependencies": [
+      "gmock/gmock-actions.h",
+      "gmock/internal/gmock-port.h",
+      "gmock/gmock-cardinalities.h",
+      "gmock/gmock-function-mocker.h",
+      "gmock/gmock-matchers.h",
+      "gmock/gmock-more-matchers.h",
+      "gmock/gmock-spec-builders.h",
+      "gmock/gmock-nice-strict.h",
+      "gmock/gmock-more-actions.h",
+      "gmock/internal/gmock-internal-utils.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/internal/gmock-port.h",
+    "dependencies": [
+      "absl/flags/flag.h",
+      "gtest/internal/gtest-port.h",
+      "absl/flags/declare.h",
+      "iostream",
+      "gmock/internal/custom/gmock-port.h",
+      "cstdint",
+      "assert.h",
+      "stdlib.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/internal/gmock-internal-utils.h",
+    "dependencies": [
+      "utility",
+      "gmock/internal/gmock-port.h",
+      "vector",
+      "ostream",
+      "type_traits",
+      "string",
+      "stdio.h",
+      "gtest/gtest.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/internal/gmock-pp.h",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/internal/custom/gmock-port.h",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/internal/custom/gmock-matchers.h",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/internal/custom/gmock-generated-actions.h",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/include/gmock/internal/custom/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/cmake/gmock_main.pc.in",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/cmake/gmock.pc.in",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/docs/README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/src/gmock.cc",
+    "dependencies": [
+      "gmock/gmock.h",
+      "gmock/internal/gmock-port.h",
+      "string"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/src/gmock-spec-builders.cc",
+    "dependencies": [
+      "qurt_event.h",
+      "sstream",
+      "gtest/gtest.h",
+      "gtest/internal/gtest-port.h",
+      "vector",
+      "iostream",
+      "unordered_map",
+      "gmock/gmock-spec-builders.h",
+      "memory",
+      "unistd.h",
+      "string",
+      "gmock/gmock.h",
+      "set",
+      "map",
+      "stdlib.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/src/gmock-matchers.cc",
+    "dependencies": [
+      "sstream",
+      "vector",
+      "iostream",
+      "gmock/gmock-matchers.h",
+      "string",
+      "string.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/src/gmock_main.cc",
+    "dependencies": [
+      "gmock/gmock.h",
+      "gtest/gtest.h",
+      "iostream",
+      "tchar.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/src/gmock-all.cc",
+    "dependencies": [
+      "src/gmock-matchers.cc",
+      "src/gmock-cardinalities.cc",
+      "src/gmock-internal-utils.cc",
+      "src/gmock-spec-builders.cc",
+      "src/gmock.cc",
+      "gmock/gmock.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/src/gmock-cardinalities.cc",
+    "dependencies": [
+      "sstream",
+      "gmock/gmock-cardinalities.h",
+      "ostream",
+      "string",
+      "limits.h",
+      "gtest/gtest.h",
+      "gmock/internal/gmock-internal-utils.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "googlemock/src/gmock-internal-utils.cc",
+    "dependencies": [
+      "utility",
+      "cctype",
+      "gmock/gmock.h",
+      "gmock/internal/gmock-port.h",
+      "vector",
+      "iostream",
+      "ostream",
+      "cstdint",
+      "string",
+      "array",
+      "ctype.h",
+      "gtest/gtest.h",
+      "cstring",
+      "gmock/internal/gmock-internal-utils.h"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  }
+]
